@@ -11,3 +11,10 @@ Features:
 - Object-oriented design
 - Modular GUI
 
+Screenshots:
+
+![https://github.com/koochyrat/cardreadergui/blob/wiki/mykad.png](https://github.com/koochyrat/cardreadergui/blob/wiki/mykad.png)
+![https://github.com/koochyrat/cardreadergui/blob/wiki/touchngo.png](https://github.com/koochyrat/cardreadergui/blob/wiki/touchngo.png)
+![https://github.com/koochyrat/cardreadergui/blob/wiki/netscashcard.png](https://github.com/koochyrat/cardreadergui/blob/wiki/netscashcard.png)
+![https://github.com/koochyrat/cardreadergui/blob/wiki/emvcard.png](https://github.com/koochyrat/cardreadergui/blob/wiki/emvcard.png)
+![https://github.com/koochyrat/cardreadergui/blob/wiki/emvprops.png](https://github.com/koochyrat/cardreadergui/blob/wiki/emvprops.png)
